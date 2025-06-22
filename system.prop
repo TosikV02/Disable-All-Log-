@@ -1,0 +1,8 @@
+persist.log.tag=S
+persist.logd.size=64K
+profiler.force_disable_err_rpt=1
+profiler.force_disable_ulog=1
+logcat.live=0
+ro.kernel.android.checkjni=0
+ro.kernel.checkjni=0
+debug.kill_allocating_task=0

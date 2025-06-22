@@ -1,0 +1,6 @@
+id=DAL
+name=Disable All Log
+version=v1
+versionCode=1
+author=tg@saltfor
+description=Disable all log service, thereby optimizing the system and increasing battery life.
